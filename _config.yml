@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+deploy: 
+    type: git
+    repository: https://github.com/bohr818/bohr818.github.io
+    branch: master
